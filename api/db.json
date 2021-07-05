@@ -6,11 +6,6 @@
       "id": 1
     },
     {
-      "title": "djevojka",
-      "description": "s bisernom naušnicom",
-      "id": 2
-    },
-    {
       "title": "hey ",
       "description": "hello",
       "id": 3
@@ -26,24 +21,14 @@
       "id": 5
     },
     {
-      "title": "hiiii",
-      "description": "djesiii",
-      "id": 6
-    },
-    {
-      "title": "hiiii",
-      "description": "djesiii",
-      "id": 7
-    },
-    {
       "title": "I creeated this stream",
       "description": "this was me",
       "userId": "107329714120686242606",
       "id": 8
     },
     {
-      "title": "I creeated this stream",
-      "description": "this was me",
+      "title": "I created this stream",
+      "description": "This was me the creator of the stream",
       "userId": "107329714120686242606",
       "id": 9
     },
@@ -52,6 +37,11 @@
       "description": "New Description",
       "userId": "107329714120686242606",
       "id": 10
+    },
+    {
+      "title": "Streaming Component Reuse",
+      "description": "Refactoring some components totally",
+      "id": 11
     }
   ]
 }
