@@ -1,47 +1,21 @@
 {
   "streams": [
     {
-      "title": "hello",
-      "description": "itsme",
-      "id": 1
-    },
-    {
-      "title": "hey ",
-      "description": "hello",
-      "id": 3
-    },
-    {
-      "title": "hey ",
-      "description": "hello",
-      "id": 4
-    },
-    {
-      "title": "hey ",
-      "description": "hello",
-      "id": 5
-    },
-    {
       "title": "I creeated this stream",
       "description": "this was me",
       "userId": "107329714120686242606",
       "id": 8
     },
     {
-      "title": "I created this stream",
-      "description": "This was me the creator of the stream",
-      "userId": "107329714120686242606",
-      "id": 9
-    },
-    {
-      "title": "New Title",
-      "description": "New Description",
-      "userId": "107329714120686242606",
-      "id": 10
-    },
-    {
       "title": "Streaming Component Reuse",
       "description": "Refactoring some components totally",
       "id": 11
+    },
+    {
+      "title": "Delete me",
+      "description": "delete me",
+      "userId": "107329714120686242606",
+      "id": 12
     }
   ]
 }
